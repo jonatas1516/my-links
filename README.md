@@ -1,4 +1,4 @@
-# my-links
+# My Links
 
 Development of a website that presents a page with links to social networks, using HTML and CSS.
 
