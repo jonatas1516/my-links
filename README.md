@@ -8,10 +8,4 @@ Development of a website that presents a page with links to social networks.
 <!-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />/>-->
 <!-- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />-->
 
-<<<<<<< HEAD
-<img src="[def]" alt="my-links" />
-
-[def]: /assets/image/my-links.png
-=======
 <img src="./assets/image/my-links.png" alt="my-links" />
->>>>>>> c81dc0b9549ea98b8ee1d373551081b267d72178
